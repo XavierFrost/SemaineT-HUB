@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< Updated upstream
   tags: []
+=======
+  tags:
+  - Ground
+  - M_Platform
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -11,6 +17,7 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< Updated upstream
   - 
   - 
   - 
@@ -19,6 +26,16 @@ TagManager:
   - 
   - 
   - 
+=======
+  - Ground
+  - ColoredGround1
+  - ColoredGround2
+  - ColoredCharacter1
+  - ColoredCharacter2
+  - Checkpoints
+  - EnvironmentChecks1
+  - EnvironmentChecks2
+>>>>>>> Stashed changes
   - 
   - 
   - 
